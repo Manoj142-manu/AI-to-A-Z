@@ -1,0 +1,18 @@
+Prompt Engineering :
+The 4 Elements of a good prompt:(. is the seperator of 4)
+> Insruction, Context, Input Data, Output Indicator
+example: Suggest a dinner recipe I can make. I am vegetarian and prefer
+meals that take under 30 minutes. I have pasta, tomatoes, garlic, and 
+spinach at home. Please list the ingredients and provide step-by-step 
+instructions.
+
+Prompt Templates:
+
+Prompt Engineering Techniques:
+> zero-shot (no example here)
+> one-shot  (one example here)
+> few-shot (few examples here)
+> chain-of-though (asking for step by step answers)
+> negative (asking for to aovid the perticular words )
+
+The Prompting can be done by setting the Inference Parameters
