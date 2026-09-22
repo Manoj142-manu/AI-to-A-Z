@@ -1,0 +1,25 @@
+Generative-AI is the Deeplearning branch
+
+GenAI for Images:
+    > text to image
+    > image to text
+    > image to image
+
+Models:
+1. Diffusion Models
+> Foundation Models:
+model lifecycle:
+1. Data Slection
+2. model selection and architecture
+3. pre-training
+4. fine-tuning
+5. Evaluation
+6. Deployment
+7. Monitoring and Feedback
+8. Iteration and maintenance
+
+
+Data:
+the types of the data is :
+1. structured data
+2. unstructured data(is having labeled and unlabeled data) 
