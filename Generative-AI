@@ -23,3 +23,45 @@ Data:
 the types of the data is :
 1. structured data
 2. unstructured data(is having labeled and unlabeled data) 
+
+FM selection :
+should consider the parameters :
+> cost, modality, customization, inference options, latency, architecture
+performance benchmarks, language, size and complexity, abilityto scale,
+compliance and licensing agreements, Environmental consideration.
+
+Trining and Inference: check the defination 
+
+Context Window: the window that the LLM's can remember if once you cross
+the window then the LLM's will have the chance of forgetting the content
+
+Tokens and Embenddings: 
+>Tokens are the basic builiding blocks that LLM use to process and 
+understand text as manageable pieces.
+>Embeddings are the numerical representations of the tokens that capture 
+their meaning and context.
+
+Transformers:A neural network architecture designed to handle sequential
+data by focusing on relationships between different parts of the input
+>Training a neural network ist the process of gradually and iteratively 
+adjusting its parameters to improve its ability to recoganize patterns and
+make accurate predictions
+
+FM Training:
+1. Pre training
+2. Continued Pre-Training
+
+FM Fine -Tunning:
+1. Domain-specific : ex- leagal document , uses both labeled and unlabeled
+data
+2. Instruction_Based: ex: Chat-BOT, uses labeled data
+3. Reinforcement Learning(RLHF): based on the feedback of the users it is
+tuned
+Check the long version video to hands on here.
+
+FM Evaluation: 
+>Evaluation Options:
+1. Human
+2. ROUGE
+3. BLEU
+4. BERTScore
